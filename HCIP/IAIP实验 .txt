@@ -1,0 +1,16 @@
+服务器BMC：192.168.90.250/24
+本地PC：192.168.90.254
+CNA01：192.168.90.1/24 192.168.90.254	root Huawei12#$
+VRM：192.168.90.2/24	admin	Huawei12#$
+
+AD DNS DHCP：192.168.90.3	administrator Huawei12#$
+ITA DB LICENSE WI HDC：192.168.90.4	root	Huawei12#$
+
+FA:admin	Huawei12#$
+域名：vdesktop.huawei.com
+vdsadmin	Huawei12#$
+vdsuser		Huawei12#$
+
+
+https://192.168.90.2:8443	FC
+https://192.168.90.4:8448/main.action	FA
