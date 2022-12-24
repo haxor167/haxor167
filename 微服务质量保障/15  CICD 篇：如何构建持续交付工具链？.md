@@ -171,7 +171,6 @@ pipeline {
 </ul>
 <p data-nodeid="9529" class="">最后列举出了可用于持续交付的工具，并且推荐使用 Jenkins 2.x 版本进行这些工具的整合。</p>
 
-<p data-nodeid="7118">你所负责的业务或项目，持续交付工具链是怎样建设的，实现了怎样的效果？请写在留言区里。</p>
 <blockquote data-nodeid="7119">
 <p data-nodeid="7120" class="">相关链接：<br>
 CI 自动化测试是 DevOps 的基础<br>
@@ -184,8 +183,9 @@ Jenkins：<br>
 <a href="https://jenkins.io/doc/book/pipeline/" data-nodeid="7238">https://jenkins.io/doc/book/pipeline/</a></p>
 </blockquote>
 
+
 ---
 
-### 精选评论
+### 
 
 

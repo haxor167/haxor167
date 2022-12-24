@@ -242,7 +242,6 @@
 </li>
 </ul>
 <p data-nodeid="20983">这三大核心环境相关独立，各司其职，同时又相互配合。</p>
-<p data-nodeid="20984">那你所在的业务或项目，共有几个不同类型的环境呢？在每个环境里又进行哪些类型的测试？请写在留言区。</p>
 <blockquote data-nodeid="20985">
 <p data-nodeid="20986">相关链接：<br>
 CI/CD：https://www.redhat.com/zh/topics/devops/what-is-ci-cd<br>
@@ -259,9 +258,5 @@ https://mp.weixin.qq.com/s/Db5Jwb0QvqsEB207dhWEEg<br>
 Devops Handbook《DevOps 实践指南》简介<br>
 https://martinliu.cn/posts/devops-handbook/</p>
 </blockquote>
-
----
-
-### 精选评论
 
 
